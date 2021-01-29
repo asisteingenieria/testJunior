@@ -1,0 +1,12 @@
+.jumbotron {
+    padding: 2%;
+    text-align: center;
+}
+form {
+    padding: 2%;
+    background:#cfcfcf;
+    margin: 0% 0% 0% 5%;
+}
+label {
+    color:rgb(0, 0, 0);
+}
